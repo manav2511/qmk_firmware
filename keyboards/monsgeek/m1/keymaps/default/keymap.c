@@ -17,7 +17,7 @@
 #include QMK_KEYBOARD_H
 
 enum __layers {
-    WIN_B,
+    _BASE,
     WIN_W,
     WIN_FN,
     MAC_B,
