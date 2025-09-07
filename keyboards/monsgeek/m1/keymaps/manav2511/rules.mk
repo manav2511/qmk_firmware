@@ -3,4 +3,4 @@ CAPS_WORD_ENABLE = yes
 LEADER_ENABLE = yes
 
 # Eager debounce
-DEBOUNCE_TYPE = sys_eager_pk
+DEBOUNCE_TYPE = sym_eager_pk
